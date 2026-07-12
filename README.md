@@ -18,7 +18,7 @@ Welcome to my #100DaysOfCode journey!
 | 1 | Majority Element-I | Arrays | ✅ |
 | 2 | Leaders in an Array | Arrays | ✅ |
 | 3 | Rearrange Array Elements by Sign | Arrays | ✅ |
-| 4 | Print Matrix in Spiral Order | Matrix | ✅ |
+| 4 | Print Matrix in Spiral Order | Matrix |❌|
 | 5 | Pascal's Triangle I | Arrays | ✅ |
 | 6 | Pascal's Triangle II | Arrays | ✅ |
 | 7 | Pascal's Triangle III | Arrays | ✅ |
