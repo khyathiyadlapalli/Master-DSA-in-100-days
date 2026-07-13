@@ -21,7 +21,7 @@ Welcome to my #100DaysOfCode journey!
 | 4 | Print Matrix in Spiral Order | Matrix |❌|
 | 5 | Pascal's Triangle I | Arrays | ✅ |
 | 6 | Pascal's Triangle II | Arrays | ✅ |
-| 7 | Pascal's Triangle III | Arrays | ✅ |
+| 7 | Pascal's Triangle III | Arrays |❌|
 | 8 | Rotate Matrix by 90 Degrees | Matrix | ✅ |
 | 9 | Two Sum | Hashing | ✅ |
 | 10 | 3 Sum | Two Pointers | ✅ |
