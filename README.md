@@ -12,3 +12,6 @@ Welcome to my #100DaysOfCode journey!
 
 Day:1 Array
 
+Static array
+Dynamic array
+
