@@ -10,9 +10,5 @@ Welcome to my #100DaysOfCode journey!
 
 ## Language:Python
 
-Day:1 Array
-
-Static array
-Dynamic array
-Hash tag
+Initially started my coding practise by solving basic problems to review my basic in python coding.
 
